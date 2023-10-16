@@ -1,6 +1,6 @@
 ---
-title: Introduction
-subtitle: A Tale of Two Photographers
+title: Prologue
+subtitle: A Tale Some MLIS students
 layout: splash
 order: 10
 image: figures/lange-house.jpg

@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+url: 'https://scstanley7.github.io.quire/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -34,9 +34,9 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
+  - name: LIS5590 - Museum Informatics
+    location: Tallahassee, FL
+    url: https://scstanley7.github.io.quire/
     logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
