@@ -1,12 +1,12 @@
 ---
-title: About
+title: My Test page
 layout: page
 order: 503
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+This is a starter theme for [text of link goes here](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
 
 This starter theme allows for the quick customization of a few key styles to make you publication project your own.
 
@@ -17,6 +17,8 @@ This starter theme allows for the quick customization of a few key styles to mak
 - Navigation bar style
 
 By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+
+## An example of my art
 
 The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
 
