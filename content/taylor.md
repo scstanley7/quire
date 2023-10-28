@@ -20,6 +20,6 @@ By diving further into the included style sheets and layout templates, there’s
 
 ## An example of my art
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.  Charlton, J., (2023). Modern Liberian public library takes shape. Information Today, Vol. 40 (4), 28-29. Retrieved from https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=llf&AN=163300877&site=ehost-live&custid=s5308004
 
 The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
