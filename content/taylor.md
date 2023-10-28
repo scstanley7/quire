@@ -5,23 +5,22 @@ order: 503
 outputs:
   - html
 ---
+#Telecommunications#
+##What is Telecommunications Technology?##
 
-This is a starter theme for [text of link goes here](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+>**Telecommunications** are _“information exchange by means of electrical signals”_
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+This definition is a translation of the one given by Édouard Estaunié who was the writer that coined the term telecommunications in 1904.
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+But you could say that telecommunications go back much farther to 1801 with the development of the optical telegraph invented by Claude Chappe. The optical telegraph was a system of towers and wires that used positionable arms on the tops of the towers to transmit encoded messages across France.
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
-
-## An example of my art
-
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.  Charlton, J., (2023).
-
-Modern Liberian public library takes shape. Information Today, Vol. 40 (4), 28-29. Retrieved from https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=llf&AN=163300877&site=ehost-live&custid=s5308004
-
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+###This list of telecommunications tech is probably more familiar though###
+----------
+*Electrical Telegraph
+*Radio
+*Telephone
+*Fixed Line
+*Mobile
+*Television
+*Satellite
+*Optical Fiber
