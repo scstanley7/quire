@@ -1,4 +1,3 @@
-<style>H1{color:Purple;}</style>
 ---
 title: Telecommunications Test page
 layout: page
@@ -6,6 +5,7 @@ order: 503
 outputs:
   - html
 ---
+<style>H1{color:Purple;}</style>
 #Telecommunications#
 ----------
 ##What is Telecommunications Technology?##
@@ -18,18 +18,18 @@ But you could say that telecommunications go back much farther to 1801 with the 
 
 ##This list of telecommunications tech is probably more familiar though##
 
--Electrical Telegraph
+- Electrical Telegraph
 
--Radio
+- Radio
 
-  -Telephone
+  - Telephone
   
-  -Fixed Line
+  - Fixed Line
   
--Mobile
+- Mobile
 
--Television
+- Television
 
--Satellite
+- Satellite
 
--Optical Fiber
+- Optical Fiber
