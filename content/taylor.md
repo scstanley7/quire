@@ -1,3 +1,4 @@
+<style>H1{color:Purple;}</style>
 ---
 title: Telecommunications Test page
 layout: page
