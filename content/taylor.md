@@ -5,7 +5,7 @@ order: 503
 outputs:
   - html
 ---
-<style>H1{color:Purple;}</style>
+<code style="color : magenta">text</code>
 #Telecommunications#
 ----------
 ##What is Telecommunications Technology?##
