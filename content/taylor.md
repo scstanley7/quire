@@ -22,11 +22,11 @@ But you could say that telecommunications go back much farther to 1801 with the 
 
 - Radio
 
-  - Telephone
+- Telephone
   
   - Fixed Line
   
-- Mobile
+  - Mobile
 
 - Television
 
