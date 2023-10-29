@@ -7,7 +7,7 @@ outputs:
 ---
 <code style="color : magenta">text</code>
 # Telecommunications #
-----------
+{% cite 'Huurdeman 2003' '' 'Information Taken from _The Worldwide History of Telecommunications_' %}
 
 id: "vid-1"
     poster: figures/evans-video-still.jpg
@@ -15,7 +15,6 @@ id: "vid-1"
     media_type: youtube
 
 ## What is Telecommunications Technology? ## 
-{% cite 'Huurdeman 2003' '' 'Information Taken from _The Worldwide History of Telecommunications_' %}
 
 >**Telecommunications** are _“information exchange by means of electrical signals”_
 
