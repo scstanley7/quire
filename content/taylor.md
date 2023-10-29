@@ -39,3 +39,5 @@ But you could say that telecommunications go back much farther to 1801 with the 
 - Satellite
 
 - Optical Fiber
+
+Huurdeman, A. A.(2003). The worldwide history of telecommunications. John Wiley & Sons, Inc. https://doi.org/10.1002/0471722243.ch23
