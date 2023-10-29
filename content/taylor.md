@@ -5,7 +5,7 @@ order: 503
 outputs:
   - html
 ---
-<code style="color : magenta"># Telecommunications #</code>
+<code style="color : magenta"> # Telecommunications # </code>
 
 {% cite 'Huurdeman 2003'%}
 
