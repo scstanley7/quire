@@ -10,6 +10,8 @@ outputs:
 ----------
 ##What is Telecommunications Technology?##
 
+{% figure ‘vid’-1 %}
+
 >**Telecommunications** are _“information exchange by means of electrical signals”_
 
 This definition is a translation of the one given by Édouard Estaunié who was the writer that coined the term telecommunications in 1904.
