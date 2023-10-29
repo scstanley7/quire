@@ -14,7 +14,7 @@ id: "vid-1"
     media_id: BpGN0UUtqqU
     media_type: youtube
 
-## What is Telecommunications Technology? ##
+## What is Telecommunications Technology? ## {% cite 'Huurdeman 2003' '' 'Information Taken from _The Worldwide History of Telecommunications_' %}
 
 >**Telecommunications** are _“information exchange by means of electrical signals”_
 
@@ -39,5 +39,3 @@ But you could say that telecommunications go back much farther to 1801 with the 
 - Satellite
 
 - Optical Fiber
-
-{ % cite 'Huurdeman 2003' % }
