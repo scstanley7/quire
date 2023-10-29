@@ -8,9 +8,10 @@ outputs:
 <code style="color : magenta">text</code>
 #Telecommunications#
 ----------
-##What is Telecommunications Technology?##
 
-{% figure 'vid-1', 'is-pulled-right' %}
+{%figure 'vid-1', 'is-pulled-right'%}
+
+##What is Telecommunications Technology?##
 
 >**Telecommunications** are _“information exchange by means of electrical signals”_
 
