@@ -9,7 +9,10 @@ outputs:
 #Telecommunications#
 ----------
 
-{%figure 'vid-1', 'is-pulled-right'%}
+id: "vid-1"
+    poster: figures/evans-video-still.jpg
+    media_id: BpGN0UUtqqU
+    media_type: youtube
 
 ##What is Telecommunications Technology?##
 
