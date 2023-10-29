@@ -35,7 +35,4 @@ But you could say that telecommunications go back much farther to 1801 with the 
 
 - Optical Fiber
 
-id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
+{% figure "vid-1" %}

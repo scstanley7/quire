@@ -143,61 +143,9 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
-  "_assets/images/contributors/judith-keller.jpg": {
-    "file": "_assets/judith-keller.jpg",
-    "src": "_assets/images/contributors/judith-keller.jpg"
-  },
-  "_assets/images/figures/evans-bud-fields.jpg": {
-    "file": "_assets/evans-bud-fields.jpg",
-    "src": "_assets/images/figures/evans-bud-fields.jpg"
-  },
-  "_assets/images/figures/evans-burroughs.jpg": {
-    "file": "_assets/evans-burroughs.jpg",
-    "src": "_assets/images/figures/evans-burroughs.jpg"
-  },
-  "_assets/images/figures/evans-fields-family-a.jpg": {
-    "file": "_assets/evans-fields-family-a.jpg",
-    "src": "_assets/images/figures/evans-fields-family-a.jpg"
-  },
-  "_assets/images/figures/evans-fields-family-b.jpg": {
-    "file": "_assets/evans-fields-family-b.jpg",
-    "src": "_assets/images/figures/evans-fields-family-b.jpg"
-  },
-  "_assets/images/figures/evans-graveyard.jpg": {
-    "file": "_assets/evans-graveyard.jpg",
-    "src": "_assets/images/figures/evans-graveyard.jpg"
-  },
-  "_assets/images/figures/evans-hymns.jpg": {
-    "file": "_assets/evans-hymns.jpg",
-    "src": "_assets/images/figures/evans-hymns.jpg"
-  },
-  "_assets/images/figures/evans-legionnaire.jpg": {
-    "file": "_assets/evans-legionnaire.jpg",
-    "src": "_assets/images/figures/evans-legionnaire.jpg"
-  },
-  "_assets/images/figures/evans-sons.jpg": {
-    "file": "_assets/evans-sons.jpg",
-    "src": "_assets/images/figures/evans-sons.jpg"
-  },
-  "_assets/images/figures/evans.jpg": {
-    "file": "_assets/evans.jpg",
-    "src": "_assets/images/figures/evans.jpg"
-  },
   "_assets/images/figures/lange-house.jpg": {
     "file": "_assets/lange-house.jpg",
     "src": "_assets/images/figures/lange-house.jpg"
-  },
-  "_assets/images/figures/lange-mother-a.jpg": {
-    "file": "_assets/lange-mother-a.jpg",
-    "src": "_assets/images/figures/lange-mother-a.jpg"
-  },
-  "_assets/images/figures/lange.jpg": {
-    "file": "_assets/lange.jpg",
-    "src": "_assets/images/figures/lange.jpg"
-  },
-  "_assets/images/logo-getty.png": {
-    "file": "_assets/logo-getty.png",
-    "src": "_assets/images/logo-getty.png"
   },
   "_assets/images/spiral-overlay.png": {
     "file": "_assets/spiral-overlay.png",
