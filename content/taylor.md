@@ -6,7 +6,7 @@ outputs:
   - html
 ---
 <code style="color : magenta">text</code>
-#Telecommunications#
+# Telecommunications #
 ----------
 
 id: "vid-1"
@@ -40,4 +40,4 @@ But you could say that telecommunications go back much farther to 1801 with the 
 
 - Optical Fiber
 
-{% cite 'Huurdeman 2003' %}
+{ % cite 'Huurdeman 2003' % }
