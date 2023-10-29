@@ -5,8 +5,8 @@ order: 503
 outputs:
   - html
 ---
-<code style="color : magenta">text</code>
-# Telecommunications #
+<code style="color : magenta"># Telecommunications #</code>
+
 {% cite 'Huurdeman 2003' '' 'Information Taken from _The Worldwide History of Telecommunications_' %}
 
 ## What is Telecommunications Technology? ## 
