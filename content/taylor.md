@@ -10,7 +10,7 @@ outputs:
 ----------
 ##What is Telecommunications Technology?##
 
-{% figure ‘vid’-1 %}
+{% figure 'vid-1', 'is-pulled-right' %}
 
 >**Telecommunications** are _“information exchange by means of electrical signals”_
 
